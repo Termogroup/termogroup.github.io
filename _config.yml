@@ -1,0 +1,24 @@
+# Site settings
+title: Termo Group s.r.l.
+email: termogroupsrl@gmail.com
+description:
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Termo Group s.r.l.
+email: termogroupsrl@gmail.com
+facebook_username: Termo-group-srl-304588949708508/
+
+address:
+  - line: via Nazionale, 418
+  - line:  84034 Padula Scalo (SA)
+  # Feel free to add more lines here
+telephone: 0975 574232
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
